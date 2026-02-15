@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.hero {
+  margin-top: 200px; /* intentional layout issue */
+}
+
+button {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+}
